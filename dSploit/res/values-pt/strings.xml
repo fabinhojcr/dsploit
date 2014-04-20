@@ -352,7 +352,7 @@
     <string name="sessions_desc">Sessões no alvo pwned.</string>
     
     <string name="menu_add">Adicionar</string>
-    <string name="menu_scan">Escanearcan</string>
+    <string name="menu_scan">Escanear</string>
     <string name="menu_wifi_scan">Escanear WiFi</string>
     <string name="menu_stop_msfrpcd">Parar msfrpcd</string>
     
